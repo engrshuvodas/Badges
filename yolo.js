@@ -1,1 +1,1 @@
-console.log("for yolo badge")
+console.log("for yolo badge");
