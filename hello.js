@@ -1,2 +1,1 @@
- main
-console.log("hello");
+const pair = "extraordimaire"
