@@ -1,1 +1,2 @@
-console.log("hellow")
+ main
+console.log("hello");
